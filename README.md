@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatima Fayyaz.
-- 👀 I’m interested in Machine Learning and Data Science.
+- 👀 I’m interested in Machine Learning.
 - 📫 Reach me on this email address: fatimafayyazn22@gmail.com
 
 <!---
